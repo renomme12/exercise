@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title>mockup</title>
+	<meta name="keywords" content="mockup" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <link rel="stylesheet" href="mockupcss" type="text/css"/>
+	<link rel="stylesheet" href="https://i.icomoon.io/public/temp/7b5576c3b7/UntitledProject/style-svg.css">
+<script defer src="https://i.icomoon.io/public/temp/7b5576c3b7/UntitledProject/svgxuse.js"></script>
+</head>
+
+<body>
+
+
+
+	<div id="container">
+
+		<header style="display: block" >
+      <div class="home">
+			  Home  About Us  Blog
+		  </div>
+		</header>
+
+		<div id="mountain">
+		 <img src="mountain.PNG" style="width:1300px;">
+	  </div>
+    <div class="about">
+     <h3> About Us </h3>
+		</div>
+
+
+
+			<div class="square">
+				<div class="tile1">
+					<svg class="icon icon-pencil2"><use xlink:href="#icon-pencil2"></use></svg>
+					<br /br><br /br>
+					 Web & App Design
+					<br /br><br /br>
+					<div class="text">
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+						Donec vel ante eget felis congue elementum.
+			    </div>
+					_________
+				</div>
+				<div class="tile1">
+					<svg class="icon icon-stack"><use xlink:href="#icon-stack"></use></svg>
+					<br /br><br /br>
+					 Development
+					<br /br><br /br>
+					<div class="text">
+						Nulla non est sit amet sem volutpat blandit a non justo.
+						Quisque pharetra rhoncus elit, augue.
+			    </div>
+					_________
+				</div>
+
+				<div class="tile1">
+					<svg class="icon icon-cog"><use xlink:href="#icon-cog"></use></svg>
+					<br /br><br /br>
+					 Customization
+					<br /br><br /br>
+					<div class="text">
+						Mauris dictum dui tortor. Donec mattis, ligula a commodo molestie,
+						nunc velit feugiat purus, ut luctus enim erat.
+			    </div>
+					_________
+				</div>
+
+				<div class="tile1">
+					<svg class="icon icon-folder-open"><use xlink:href="#icon-folder-open"></use></svg>
+					<br /br><br /br>
+					Marketing
+					<br /br><br /br>
+					<div class="text">
+					 Quisque at tristique magna. Sed fermentum tristique tellus,
+						nec porttitor tortor tempus a. Phasellus viverra.
+			    </div>
+					_________
+				</div>
+
+				<div style="clear:both;"></div>
+     </div>
+
+	   <br /br><br /br>
+
+		 <div class="block">
+
+     </div>
+
+     <br /br><br /br><br /br><br /br>
+
+		 <div class="blog">
+       <h3> Blog </h3>
+			 <div class="text">
+				Suspendisse id lacus volutpat, eleifend justo eu, efficitur enim. Nulla efficitur ut tellus a tincidunt.
+				 In ut nulla et nulla sagittis lobortis a eget purus. Nulla placerat at enim in pretium. Fusce turpis eros,
+			 </div>
+			 </div>
+
+     </div>
+
+    <div class="footer">
+			Copyright &#174; 2015 Waxcom | Privacy Policy | FAQ | Support
+				</div>
+
+  </div>

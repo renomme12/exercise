@@ -1,0 +1,113 @@
+body
+{
+	background-color: white;
+	font-family: 'Lato', sans-serif;
+}
+
+header
+{
+	background-color: #a38875;
+	text-align: right;
+	background-color:rgb(140, 97, 64);
+	height: 50px;
+	width: 1300px;
+	opacity: 0.6;
+	color: white;
+
+}
+
+#container
+{
+	width: 1300px;
+	padding: 15px;
+
+}
+
+#mountain
+{
+
+	filter: alpha(opacity=50);
+
+}
+
+.home
+{
+	padding-right: 220px;
+	padding-top: 20px;
+	font-size: 12px;
+}
+
+.home:hover
+{
+	color: #bd9975
+}
+
+.about
+{
+	padding-top: 50px;
+	padding-bottom: 25px;
+	padding-right: 40px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: #404040;
+}
+
+
+
+.square
+{
+	padding-left: 135px;
+	text-align: center;
+}
+
+.tile1
+{
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: white;
+	float: left;
+	color: ##404040
+}
+
+.tile1:hover
+{
+	color: #bd9975
+}
+
+.block
+{
+	padding: 20px;
+	height: 30px;
+	background-color: #5d4c3c
+}
+
+.blog
+{
+	text-align: center;
+	padding-left: 350px;
+	padding-right: 350px;
+}
+
+.text
+{
+	font-size: 12px;
+	color: #8c8c8c
+}
+
+.footer
+{
+	background-color: #1a1a1a;
+	clear: both;
+	color: #a6a6a6;
+	text-align: center;
+	padding: 20px;
+	font-size: 10px;
+}
+
+.option:hover
+{
+	background-color: #000000;
+	cursor: pointer;
+}
